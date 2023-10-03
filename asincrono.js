@@ -14,7 +14,7 @@ function asincGeTeams(){
 }
 
 console.log(getTeam());
-console.log('Final del codigo uwu')
+console.log('Final del codigo uwu');
 
 console.log(asincGeTeams());
-console.log('Termino el  llamado de la funcion :D')
+console.log('Termino el  llamado de la funcion :D');
